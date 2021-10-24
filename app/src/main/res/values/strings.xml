@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="addAndSave">Search for city temperature</string>
+    <string name="APIKEY">INSERT API KEY HERE></string>
+    <string name="default_temp">default temp</string>
+    <string name="default_date">default date</string>
+</resources>
